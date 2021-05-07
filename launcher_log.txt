@@ -1,0 +1,519 @@
+[Info: 2021-05-07 14:27:38.7732850: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:27:43.3266255: mainWindows.cpp(80)] Running launcher bootstrap (version 1000)
+[Info: 2021-05-07 14:27:40.3911505: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:27:47.1230278: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:27:47.3137803: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:27:47.3621894: Common.cpp(32)] Native Launcher Version: 1000
+[Info: 2021-05-07 14:27:47.4215596: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2021-05-07 14:27:47.4620420: Common.cpp(34)] Application Data directory: ...\.minecraft
+[Info: 2021-05-07 14:27:47.5258345: Common.cpp(35)] Executable Path: /.../MinecraftLauncher.exe
+[Info: 2021-05-07 14:27:47.5712429: Common.cpp(36)] App Directory dir: ...\Minecraft Launcher
+[Info: 2021-05-07 14:27:47.5900364: Common.cpp(37)] Game data directory: ...\.minecraft
+[Info: 2021-05-07 14:27:47.6148161: Common.cpp(38)] Launcher dir: ...\Minecraft Launcher\game
+[Info: 2021-05-07 14:27:47.6794525: Common.cpp(39)] Java dir: ...\Minecraft Launcher\runtime\jre-x64
+[Info: 2021-05-07 14:27:47.7383738: Common.cpp(40)] TmpDir dir: ...\MinecraftLauncher
+[Info: 2021-05-07 14:27:47.7730461: Common.cpp(41)] x64: true
+[Info: 2021-05-07 14:27:47.8129515: LauncherConfiguration.cpp(292)] Using update preferences at path: ...\.minecraft\launcher_profiles.json
+[Info: 2021-05-07 14:27:48.2201780: LauncherConfiguration.cpp(295)] Failed to read update preferences from ...\.minecraft\launcher_profiles.json
+[Info: 2021-05-07 14:27:48.2659315: LauncherConfiguration.cpp(306)] Using update preferences at path: ...\.minecraft\launcher_settings.json
+[Info: 2021-05-07 14:27:48.3156880: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:27:48.6289569: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:27:48.6582488: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:27:48.7000044: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:27:48.7136630: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 3935108222
+[Info: 2021-05-07 14:27:48.7649981: LauncherConfiguration.cpp(215)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2021-05-07 14:27:48.8138388: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2021-05-07 14:27:48.8596806: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 3935108222
+[Info: 2021-05-07 14:27:48.8984061: LauncherConfiguration.cpp(215)] Version of launcher-core-v2 is current, no action is necessary.
+[Info: 2021-05-07 14:27:49.0868534: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2021-05-07 14:27:49.1788545: StartLibrary.cpp(63)] Starting ...\Minecraft Launcher\game\launcher.dll
+[Info: 2021-05-07 14:28:01.2541707: StartLibrary.cpp(75)] Running launcher!
+[Info: 2021-05-07 14:28:01.2545983: StartLibrary.cpp(77)] Logging is open, passing it to Launcher Core.
+[Info: 2021-05-07 14:28:01.4032701: LauncherMain.cpp(99)] Initiated models
+[Info: 2021-05-07 14:28:01.9224767: LauncherMain.cpp(264)] Initiated app arguments
+[Info: 2021-05-07 14:28:01.9439742: LauncherMain.cpp(297)] Initiated directories
+[Info: 2021-05-07 14:28:02.0344298: LauncherMain.cpp(315)] Initialized network
+[Info: 2021-05-07 14:28:02.0347734: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:28:02.0402922: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:28:02.0404004: LauncherMain.cpp(329)] Initialized Sentry
+[Info: 2021-05-07 14:28:02.0634479: LauncherMain.cpp(335)] workDir: ...\.minecraft
+[Info: 2021-05-07 14:28:02.0641235: LauncherMain.cpp(343)] appDir: ...\Minecraft Launcher
+[Info: 2021-05-07 14:28:02.0649189: LauncherMain.cpp(369)] Launcher core version: 2.2.2529 (85af79b6740ee4ef1e9c8315377d56dd8b952645)
+[Info: 2021-05-07 14:28:02.0652087: LauncherMain.cpp(370)] Main process: true
+[Info: 2021-05-07 14:28:02.0660492: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:28:02.0680143: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:28:02.1011958: LauncherController.cpp(397)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 1
+[Info: 2021-05-07 14:28:02.1628085: ProfilesFileData.cpp(202)] Reading preferences on path: C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2021-05-07 14:28:02.1632871: ProfilesFileData.cpp(233)] Deserializing modern profile
+[Info: 2021-05-07 14:28:02.2002000: GameVersionManager.cpp(209)] Reading local cache of the Mojang versions manifest...
+[Info: 2021-05-07 14:28:02.2149366: GameVersionManager.cpp(249)] Looking for installed versions in ...\.minecraft\versions
+[Info: 2021-05-07 14:28:02.2451989: GameVersionManager.cpp(290)] Parsing version 1.12.2
+[Info: 2021-05-07 14:28:02.3465507: GameVersionManager.cpp(290)] Parsing version 1.12.2-forge-14.23.5.2854
+[Warning: 2021-05-07 14:28:02.3473184: GameVersionManager.cpp(304)] C:\Users\JoeRachel\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json._comment_: Unknown key
+[Info: 2021-05-07 14:28:02.3867596: GameVersionManager.cpp(290)] Parsing version 1.14
+[Info: 2021-05-07 14:28:02.3971797: GameVersionManager.cpp(290)] Parsing version 1.14.4
+[Info: 2021-05-07 14:28:02.4123009: GameVersionManager.cpp(290)] Parsing version 1.16.2
+[Info: 2021-05-07 14:28:02.4300436: GameVersionManager.cpp(290)] Parsing version 1.16.3
+[Info: 2021-05-07 14:28:02.4420977: GameVersionManager.cpp(290)] Parsing version 1.16.4
+[Info: 2021-05-07 14:28:02.4771073: GameVersionManager.cpp(290)] Parsing version 1.16.5
+[Info: 2021-05-07 14:28:02.4913645: GameVersionManager.cpp(290)] Parsing version 20w46a
+[Info: 2021-05-07 14:28:02.5142621: GameVersionManager.cpp(290)] Parsing version 20w48a
+[Info: 2021-05-07 14:28:02.5360974: GameVersionManager.cpp(290)] Parsing version 20w51a
+[Info: 2021-05-07 14:28:02.5533709: GameVersionManager.cpp(290)] Parsing version 21w07a
+[Info: 2021-05-07 14:28:02.6624010: GameVersionManager.cpp(290)] Parsing version 21w08b
+[Info: 2021-05-07 14:28:02.6890049: GameVersionManager.cpp(290)] Parsing version 21w10a
+[Info: 2021-05-07 14:28:02.7352247: GameVersionManager.cpp(290)] Parsing version 21w14a
+[Info: 2021-05-07 14:28:02.7632918: GameVersionManager.cpp(290)] Parsing version 21w15a
+[Info: 2021-05-07 14:28:02.7872347: GameVersionManager.cpp(290)] Parsing version 21w16a
+[Info: 2021-05-07 14:28:02.8247017: GameVersionManager.cpp(290)] Parsing version 21w17a
+[Info: 2021-05-07 14:28:02.8727548: GameVersionManager.cpp(290)] Parsing version 21w18a
+[Info: 2021-05-07 14:28:02.8994779: GameVersionManager.cpp(290)] Parsing version b1.8.1
+[Info: 2021-05-07 14:28:02.9531750: GameVersionManager.cpp(290)] Parsing version rd-132211
+[Info: 2021-05-07 14:28:02.9569187: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:02Z
+[Info: 2021-05-07 14:28:03.1906254: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:28:03.1909009: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:02Z
+[Info: 2021-05-07 14:28:03.1910937: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:02Z
+[Info: 2021-05-07 14:28:03.1915404: GameVersionManager.cpp(374)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:02Z
+[Info: 2021-05-07 14:28:03.2252788: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:28:03.2660286: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:28:03.2689603: XalStorage.cpp(241)] Parsing content from MSA File
+[Info: 2021-05-07 14:28:03.2700821: XalContext.cpp(416)] ClockSkew is 14826404 (1 seconds)
+[Info: 2021-05-07 14:28:03.3132819: Xal.lib(0)] XAL: Initializing Xal 2019.10.20190918.001, Win32 platform
+[Info: 2021-05-07 14:28:03.3136158: Xal.lib(0)] XAL: Init args:
+[Info: 2021-05-07 14:28:03.3139685: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2021-05-07 14:28:03.3141866: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2021-05-07 14:28:03.3144549: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2021-05-07 14:28:03.3147193: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2021-05-07 14:28:03.3150436: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2021-05-07 14:28:03.3155472: Xal.lib(0)] XAL:     redirectUri: 
+[Warning: 2021-05-07 14:28:03.3161691: Xal.lib(0)] XAL: Expected REG_SZ type for SOFTWARE\Microsoft\XboxLive\Sandbox, found 0 instead
+[Info: 2021-05-07 14:28:03.3566681: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2021-05-07 14:28:03.3799470: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2019.10.20190918.001"
+[Info: 2021-05-07 14:28:03.4599831: Xal.lib(0)] XAL: [035CEE80] Operation InitializeComponents is starting with CV 'A2sKIL8BM6oCSAK+.0.0'
+[Info: 2021-05-07 14:28:03.4816395: Xal.lib(0)] XAL: [03C0C448] Operation InitializeTokenStack is starting with CV 'A2sKIL8BM6oCSAK+.0.0'
+[Info: 2021-05-07 14:28:03.4827978: Xal.lib(0)] XAL: [035CF120] Operation LoadClockSkew is starting with CV 'A2sKIL8BM6oCSAK+.0.0'
+[Info: 2021-05-07 14:28:03.4832166: Xal.lib(0)] XAL: [03C9FF68] Client operation StorageReadPlatformOperation starting
+[Info: 2021-05-07 14:28:03.5107310: ProductManager.cpp(212)] Product library dir set to C:\Users\JoeRachel\AppData\Local\Mojang\products
+[Info: 2021-05-07 14:28:03.5264755: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:03.5396458: AccountData.cpp(309)] Parsing content from file: ...\.minecraft\launcher_accounts.json
+[Info: 2021-05-07 14:28:03.5679336: Xal.lib(0)] XAL: [03C9FF68] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:03.5803826: Xal.lib(0)] XAL: [03C9FF68] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-05-07 14:28:03.5858837: Xal.lib(0)] XAL: [03C9FF68] Client operation StorageReadPlatformOperation succeeded
+[Info: 2021-05-07 14:28:03.6639426: CefUI.cpp(123)] Web cache is compatible with current CEF version.
+[Info: 2021-05-07 14:28:03.6650377: CefUI.cpp(145)] Web cache path: C:\Users\JoeRachel\AppData\Roaming\.minecraft\webcache2
+[Info: 2021-05-07 14:28:03.7519992: Xal.lib(0)] XAL: [03C9FF68] Client operation StorageReadPlatformOperation continuing
+[Info: 2021-05-07 14:28:03.7684723: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:28:03.8070857: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:03.8075594: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:03.8063842: Xal.lib(0)] XAL: No saved clock skew data found.
+[Info: 2021-05-07 14:28:03.8601897: Xal.lib(0)] XAL: [035CF120] Operation LoadClockSkew succeeded.
+[Info: 2021-05-07 14:28:03.8747677: Xal.lib(0)] XAL: Clock skew loaded. System time: 2021-05-07T14:28:03.8740000Z + skew (seconds) 0 = Server time: 2021-05-07T14:28:03.8740000Z
+[Info: 2021-05-07 14:28:03.8082202: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:03.9243893: Xal.lib(0)] XAL: [03C5EAA8] Operation LoadDeviceIdentity is starting with CV 'A2sKIL8BM6oCSAK+.0.0'
+[Info: 2021-05-07 14:28:03.9545548: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:28:03.9627718: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:03.9615563: Xal.lib(0)] XAL: [03C9EB18] Client operation StorageReadPlatformOperation starting
+[Info: 2021-05-07 14:28:03.9792124: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:03.9823270: Xal.lib(0)] XAL: [03C9EB18] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:04.0152534: Xal.lib(0)] XAL: [03C9EB18] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-05-07 14:28:04.0989430: Xal.lib(0)] XAL: [03C9EB18] Client operation StorageReadPlatformOperation succeeded
+[Info: 2021-05-07 14:28:04.2555234: Xal.lib(0)] XAL: [03C9EB18] Client operation StorageReadPlatformOperation continuing
+[Info: 2021-05-07 14:28:04.2573995: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:04.2840490: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:28:04.2979466: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:04.2981846: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:28:04.3237304: Xal.lib(0)] XAL: [03ED1BC0] Client operation StorageReadPlatformOperation starting
+[Info: 2021-05-07 14:28:04.3353153: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:04.3493563: Xal.lib(0)] XAL: [03ED1BC0] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:04.3708982: Xal.lib(0)] XAL: [03ED1BC0] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2021-05-07 14:28:04.3714121: Xal.lib(0)] XAL: [03ED1BC0] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2021-05-07 14:28:04.3801410: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:28:04.3816949: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:04.3819389: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:28:04.4925089: Xal.lib(0)] XAL: [03ED1BC0] Client operation StorageReadPlatformOperation continuing
+[Warning: 2021-05-07 14:28:04.4995304: Xal.lib(0)] XAL: [03C5EAA8] Failed to read Dtoken with error 0x89235107: Client operation failed
+[Info: 2021-05-07 14:28:04.4999264: Xal.lib(0)] XAL: [03E2AD00] Client operation StorageReadPlatformOperation starting
+[Info: 2021-05-07 14:28:04.5006775: Xal.lib(0)] XAL: [03E2AD00] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:04.5011819: Xal.lib(0)] XAL: [03E2AD00] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2021-05-07 14:28:04.6213133: Xal.lib(0)] XAL: [03E2AD00] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2021-05-07 14:28:04.7444295: Xal.lib(0)] XAL: [03E2AD00] Client operation StorageReadPlatformOperation continuing
+[Warning: 2021-05-07 14:28:04.8498040: Xal.lib(0)] XAL: [03C5EAA8] Failed to read Ttoken with error 0x89235107: Client operation failed
+[Info: 2021-05-07 14:28:04.8542643: Xal.lib(0)] XAL: [03C5EAA8] Operation LoadDeviceIdentity succeeded.
+[Info: 2021-05-07 14:28:04.8578396: Xal.lib(0)] XAL: [035CF2E0] Operation NsalDb_LoadDefaultNsal is starting with CV 'A2sKIL8BM6oCSAK+.0.0'
+[Info: 2021-05-07 14:28:04.8685288: NetQueue.cpp(585)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2021-05-07 14:28:05.2356011: NetQueue.cpp(428)] NetQueue: Primary ip: 40.90.222.80, Host: title.mgt.xboxlive.com
+[Info: 2021-05-07 14:28:05.2502199: NetQueue.cpp(504)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2021-05-07 14:28:05.2718068: NetQueue.cpp(532)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2021-05-07 14:28:05.3719138: Xal.lib(0)] XAL: [035CF2E0] Operation NsalDb_LoadDefaultNsal succeeded.
+[Info: 2021-05-07 14:28:05.4262079: Xal.lib(0)] XAL: [03C3D780] Operation GetDtoken is starting with CV 'A2sKIL8BM6oCSAK+.0.1'
+[Info: 2021-05-07 14:28:05.5137308: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0001AB9770EA8EB8)
+[Info: 2021-05-07 14:28:05.5347885: Xal.lib(0)] XAL: Failed to find requested token in cache: [identityType:1, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]
+[Info: 2021-05-07 14:28:05.6429975: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (0001AB9770EA8EB8)
+[Info: 2021-05-07 14:28:05.6599262: Xal.lib(0)] XAL: [00F29350] Operation RefreshDtoken is starting with CV 'A2sKIL8BM6oCSAK+.0.1'
+[Info: 2021-05-07 14:28:05.6604856: Xal.lib(0)] XAL: [operation 00F29350] RefreshDtoken token fetch started.
+[Info: 2021-05-07 14:28:05.7696942: NetQueue.cpp(585)] NetQueue: Starting net action device.auth.xboxlive.com
+[Info: 2021-05-07 14:28:06.0547889: NetQueue.cpp(428)] NetQueue: Primary ip: 52.230.225.67, Host: device.auth.xboxlive.com
+[Info: 2021-05-07 14:28:06.0586039: NetQueue.cpp(504)] NetQueue: Action finished: device.auth.xboxlive.com
+[Info: 2021-05-07 14:28:06.0654993: NetQueue.cpp(532)] NetQueue: Action finalized: device.auth.xboxlive.com
+[Info: 2021-05-07 14:28:06.1402089: Xal.lib(0)] XAL: Clock skew updated. Server time: 2021-05-07T14:28:07.8640000Z - System time: 2021-05-07T14:28:06.1390000Z = skew (seconds) 1
+[Info: 2021-05-07 14:28:06.1610502: Xal.lib(0)] XAL: [03BD4DD8] Operation SaveClockSkew is starting with CV 'A2sKIL8BM6oCSAK+.0.2'
+[Info: 2021-05-07 14:28:06.1655619: Xal.lib(0)] XAL: [03E2A6C0] Client operation StorageWritePlatformOperation starting
+[Info: 2021-05-07 14:28:06.1816973: Xal.lib(0)] XAL: [03E2A6C0] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:06.1892215: Xal.lib(0)] XAL: [03E2A6C0] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-05-07 14:28:06.1899549: Xal.lib(0)] XAL: [03E2A6C0] Client operation StorageWritePlatformOperation succeeded
+[Info: 2021-05-07 14:28:06.3432739: Xal.lib(0)] XAL: [03E2A6C0] Client operation StorageWritePlatformOperation continuing
+[Info: 2021-05-07 14:28:06.3460234: Xal.lib(0)] XAL: [03BD4DD8] Operation SaveClockSkew succeeded.
+[Info: 2021-05-07 14:28:06.3471458: Xal.lib(0)] XAL: [03ED2B80] Operation WriteCacheData is starting with CV 'A2sKIL8BM6oCSAK+.0.2'
+[Info: 2021-05-07 14:28:06.3546959: Xal.lib(0)] XAL: [03E29FB8] Client operation StorageWritePlatformOperation starting
+[Info: 2021-05-07 14:28:06.3553563: Xal.lib(0)] XAL: [03E29FB8] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2021-05-07 14:28:06.3642082: Xal.lib(0)] XAL: [03E29FB8] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2021-05-07 14:28:06.3647162: Xal.lib(0)] XAL: [03E29FB8] Client operation StorageWritePlatformOperation succeeded
+[Info: 2021-05-07 14:28:06.4986766: Xal.lib(0)] XAL: [03E29FB8] Client operation StorageWritePlatformOperation continuing
+[Info: 2021-05-07 14:28:06.5011946: Xal.lib(0)] XAL: [03ED2B80] Operation WriteCacheData succeeded.
+[Info: 2021-05-07 14:28:06.5044045: Xal.lib(0)] XAL: [operation 00F29350] RefreshDtoken token fetch done.
+[Info: 2021-05-07 14:28:06.5046439: Xal.lib(0)] XAL: [00F29350] Operation RefreshDtoken succeeded.
+[Info: 2021-05-07 14:28:06.5050317: Xal.lib(0)] XAL: [03C3D780] Operation GetDtoken succeeded.
+[Info: 2021-05-07 14:28:06.5054864: Xal.lib(0)] XAL: [03C0C448] Operation InitializeTokenStack succeeded.
+[Info: 2021-05-07 14:28:06.5058218: Xal.lib(0)] XAL: [035CEE80] Operation InitializeComponents succeeded.
+[Info: 2021-05-07 14:28:08.2331260: LauncherAppBrowser.cpp(73)] Will launch a Chromium subprocess with command line string: "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe" --type=gpu-process --field-trial-handle=2164,16225672889464303295,10210877420169414786,131072 --enable-features=CastMediaRouteProvider --no-sandbox --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui /prefetch:2
+[Info: 2021-05-07 14:28:15.0149401: LauncherAppBrowser.cpp(57)] Work dir is ...\.minecraft
+[Info: 2021-05-07 14:28:15.2425417: main_context.cpp(137)] CEF initialized successfully.
+[Info: 2021-05-07 14:28:15.3883625: main_context.cpp(139)] CEF version: 85.3.13+gcd6cbe0+chromium-85.0.4183.121
+[Info: 2021-05-07 14:28:15.5713085: NetQueue.cpp(585)] NetQueue: Starting net action https://authserver.mojang.com/refresh
+[Info: 2021-05-07 14:28:15.6726141: root_window_manager.cpp(80)] Main window has been opened: 03E4EBD0
+[Info: 2021-05-07 14:28:15.8022435: NetQueue.cpp(428)] NetQueue: Primary ip: 13.226.91.69, Host: authserver.mojang.com
+[Info: 2021-05-07 14:28:15.9846344: NetQueue.cpp(504)] NetQueue: Action finished: https://authserver.mojang.com/refresh
+[Info: 2021-05-07 14:28:16.0206419: NetQueue.cpp(532)] NetQueue: Action finalized: https://authserver.mojang.com/refresh
+[Info: 2021-05-07 14:28:16.0925379: NetQueue.cpp(585)] NetQueue: Starting net action https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-05-07 14:28:21.3590001: NetQueue.cpp(428)] NetQueue: Primary ip: 100.24.217.34, Host: api.minecraftservices.com
+[Info: 2021-05-07 14:28:21.3702936: NetQueue.cpp(504)] NetQueue: Action finished: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-05-07 14:28:21.3803269: NetQueue.cpp(532)] NetQueue: Action finalized: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-05-07 14:28:22.5187278: LauncherAppBrowser.cpp(73)] Will launch a Chromium subprocess with command line string: "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2164,16225672889464303295,10210877420169414786,131072 --enable-features=CastMediaRouteProvider --lang=en-US --service-sandbox-type=network --no-sandbox --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui /prefetch:8
+[Info: 2021-05-07 14:28:27.4688154: LauncherAppBrowser.cpp(73)] Will launch a Chromium subprocess with command line string: "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe" --type=renderer --no-sandbox --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --field-trial-handle=2164,16225672889464303295,10210877420169414786,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui /prefetch:1
+[Info: 2021-05-07 14:28:27.4780522: LauncherAppBrowser.cpp(73)] Will launch a Chromium subprocess with command line string: "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe" --type=renderer --no-sandbox --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --field-trial-handle=2164,16225672889464303295,10210877420169414786,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui /prefetch:1
+[Info: 2021-05-07 14:28:27.8975469: LauncherMain.cpp(99)] Initiated models
+[Info: 2021-05-07 14:28:27.8985963: LauncherController.cpp(397)] Constructing launcher controller with workDir: C/.../.minecraft, isActive: 0
+[Info: 2021-05-07 14:28:34.5863811: LauncherAppRenderer.cpp(159)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2021-05-07 14:28:42.0156161: LauncherAppRenderer.cpp(301)] OnContextCreated: main frame. Url=mojang://launcher/index.html browser id=1
+[Info: 2021-05-07 14:28:42.0157839: LauncherAppRenderer.cpp(306)] OnContextCreated: Create JS bindings in main browser.
+[Info: 2021-05-07 14:28:42.8929188: LauncherAppRenderer.cpp(486)] Javascript bridge extended in OnContextCreated.
+[Info: 2021-05-07 14:28:45.3408152: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-05-07 14:28:45.3684591: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-05-07 14:28:45.5056312: ControllerInterface.cpp(134)] Running async method checkForUpdates
+[Info: 2021-05-07 14:28:45.5064505: client_handler.cpp(231)] Handling PostTelemetryEvent message
+[Info: 2021-05-07 14:28:45.5075541: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:28:45.5102737: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2021-05-07 14:28:45.5357750: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:28:45.5386152: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:28:45.5400223: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2021-05-07 14:28:45.5384878: UnifiedAccounts.cpp(194)] Internet state in main process: online=1
+[Info: 2021-05-07 14:28:45.5648305: NetQueue.cpp(585)] NetQueue: Starting net action https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-05-07 14:28:45.6605315: NetQueue.cpp(428)] NetQueue: Primary ip: 2620:1ec:bdf::40, Host: launchercontent.mojang.com
+[Info: 2021-05-07 14:28:45.6622457: NetQueue.cpp(504)] NetQueue: Action finished: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-05-07 14:28:45.6625866: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-05-07 14:28:45.6662939: UnifiedAccounts.cpp(457)] Fetched account migration dates from https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-05-07 14:28:45.6714790: UnifiedAccounts.cpp(203)] Account migration dates: migrationStarts=2099-01-01T00:00:00.000Z forcedMigrationStarts=2099-01-01T00:00:00.000Z forcedMigrationEnds=2099-01-01T00:00:00.000Z
+[Info: 2021-05-07 14:28:47.0347651: ControllerInterface.cpp(106)] Running method onInternetStateChange
+[Info: 2021-05-07 14:28:47.0355103: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:47Z
+[Info: 2021-05-07 14:28:47.0544365: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:28:47.0804642: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:47Z
+[Info: 2021-05-07 14:28:47.0837839: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:47Z
+[Info: 2021-05-07 14:28:47.0910404: GameVersionManager.cpp(374)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-05-07T14:28:47Z
+[Info: 2021-05-07 14:28:47.1411668: client_handler.cpp(231)] Handling PostTelemetryEvent message
+[Info: 2021-05-07 14:28:49.4073707: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2021-05-07 14:30:04.3363304: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:30:04.4120521: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:30:04.4124011: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:30:04.4126323: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:30:04.4131510: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:30:04.4250751: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:30:04.4289004: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:30:04.4291276: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:30:08.6638822: LauncherAppBrowser.cpp(73)] Will launch a Chromium subprocess with command line string: "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe" --type=gpu-process --field-trial-handle=2164,16225672889464303295,10210877420169414786,131072 --enable-features=CastMediaRouteProvider --disable-gpu-sandbox --use-gl=disabled --gpu-vendor-id=32902 --gpu-device-id=1026 --gpu-sub-system-id=722276412 --gpu-revision=6 --gpu-driver-version=20.19.15.5058 --no-sandbox --log-file="C:\Users\JoeRachel\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui /prefetch:2
+[Info: 2021-05-07 14:32:02.4878507: ControllerInterface.cpp(106)] Running method downloadConfiguration
+[Info: 2021-05-07 14:32:02.5558887: GameVersionManager.cpp(711)] resolveVersionID: Resolved latest-release:latest-release to 1.16.5
+[Info: 2021-05-07 14:32:02.5563577: GameVersionManager.cpp(455)] Request version details for: 1.16.5
+[Info: 2021-05-07 14:32:02.5938870: GameVersionManager.cpp(711)] resolveVersionID: Resolved latest-release:latest-release to 1.16.5
+[Info: 2021-05-07 14:32:02.5993171: GameController.cpp(347)] Creating ClientStarter with id 1
+[Info: 2021-05-07 14:32:02.5996619: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-05-07 14:32:02.6019139: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-05-07 14:32:02.6455786: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Preparing to launch minecraft client for 1.16.5
+[Info: 2021-05-07 14:32:02.7409209: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Prepared asset index
+[Info: 2021-05-07 14:32:02.7959470: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-05-07 14:32:02.9297427: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:32:03.0311507: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-05-07 14:32:03.0315440: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-05-07 14:32:03.0327073: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json
+[Info: 2021-05-07 14:32:03.0660723: NetQueue.cpp(428)] NetQueue: Primary ip: 13.249.114.139, Host: launchermeta.mojang.com
+[Info: 2021-05-07 14:32:03.0677052: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json
+[Info: 2021-05-07 14:32:03.0679761: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/ddc568a50326d2cf85765abb61e752aab191c366/manifest.json
+[Info: 2021-05-07 14:32:03.1171978: PistonInstaller.cpp(259)] Inspecting files in ...\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy
+[Error: 2021-05-07 14:32:03.1701949: Sha1Cacher.cpp(45)] Error reading cached SHA-1: bin/JAWTAccessBridge-64.dll /#//  16151528540421870
+[Info: 2021-05-07 14:32:03.3635719: NetQueue.cpp(585)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2021-05-07 14:32:03.3820722: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\awt.dll', internal: bin\awt.dll
+[Info: 2021-05-07 14:32:03.3912995: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\bci.dll', internal: bin\bci.dll
+[Info: 2021-05-07 14:32:03.3927912: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dcpr.dll', internal: bin\dcpr.dll
+[Info: 2021-05-07 14:32:03.4153881: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\decora_sse.dll', internal: bin\decora_sse.dll
+[Info: 2021-05-07 14:32:03.4587941: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\deploy.dll', internal: bin\deploy.dll
+[Info: 2021-05-07 14:32:03.6013370: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dtplugin\deployJava1.dll', internal: bin\dtplugin\deployJava1.dll
+[Info: 2021-05-07 14:32:03.6017828: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dtplugin\npdeployJava1.dll', internal: bin\dtplugin\npdeployJava1.dll
+[Info: 2021-05-07 14:32:03.6116639: NetQueue.cpp(428)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2021-05-07 14:32:03.7237281: NetQueue.cpp(504)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2021-05-07 14:32:03.8440537: SentryAPI.cpp(119)] Rate limiting activated (429). Instructed to back off for 60 seconds.
+[Info: 2021-05-07 14:32:03.9253746: NetQueue.cpp(527)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2021-05-07 14:32:03.6651766: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dt_shmem.dll', internal: bin\dt_shmem.dll
+[Info: 2021-05-07 14:32:03.7250633: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dt_socket.dll', internal: bin\dt_socket.dll
+[Info: 2021-05-07 14:32:04.4655241: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\j2pcsc.dll', internal: bin\j2pcsc.dll
+[Info: 2021-05-07 14:32:04.4920020: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jaas_nt.dll', internal: bin\jaas_nt.dll
+[Info: 2021-05-07 14:32:04.5734489: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\java-rmi.exe', internal: bin\java-rmi.exe
+[Info: 2021-05-07 14:32:04.5738736: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jabswitch.exe', internal: bin\jabswitch.exe
+[Info: 2021-05-07 14:32:04.6324404: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\j2pkcs11.dll', internal: bin\j2pkcs11.dll
+[Info: 2021-05-07 14:32:04.7178809: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javafx_font.dll', internal: bin\javafx_font.dll
+[Info: 2021-05-07 14:32:04.7486494: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javacpl.exe', internal: bin\javacpl.exe
+[Info: 2021-05-07 14:32:04.8818730: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:32:04.9199242: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\instrument.dll', internal: bin\instrument.dll
+[Info: 2021-05-07 14:32:04.9286912: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\eula.dll', internal: bin\eula.dll
+[Info: 2021-05-07 14:32:05.0580097: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jawt.dll', internal: bin\jawt.dll
+[Info: 2021-05-07 14:32:05.2439680: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\JAWTAccessBridge-64.dll', internal: bin\JAWTAccessBridge-64.dll
+[Info: 2021-05-07 14:32:05.2447047: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jjs.exe', internal: bin\jjs.exe
+[Info: 2021-05-07 14:32:05.3146820: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:32:05.3152261: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:32:05.3156849: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:32:05.3230110: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:32:05.4106225: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jp2native.dll', internal: bin\jp2native.dll
+[Info: 2021-05-07 14:32:05.3243572: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jsdt.dll', internal: bin\jsdt.dll
+[Info: 2021-05-07 14:32:05.4418233: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:32:05.5149540: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:32:05.5160582: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:32:05.5167219: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\keytool.exe', internal: bin\keytool.exe
+[Info: 2021-05-07 14:32:05.5407881: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\kinit.exe', internal: bin\kinit.exe
+[Info: 2021-05-07 14:32:05.5623300: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\klist.exe', internal: bin\klist.exe
+[Info: 2021-05-07 14:32:05.5911511: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\ktab.exe', internal: bin\ktab.exe
+[Info: 2021-05-07 14:32:05.5920691: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\orbd.exe', internal: bin\orbd.exe
+[Info: 2021-05-07 14:32:05.6464712: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\pack200.exe', internal: bin\pack200.exe
+[Info: 2021-05-07 14:32:05.6673105: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\npt.dll', internal: bin\npt.dll
+[Info: 2021-05-07 14:32:05.7119547: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jfr.dll', internal: bin\jfr.dll
+[Info: 2021-05-07 14:32:05.7293699: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\java_crw_demo.dll', internal: bin\java_crw_demo.dll
+[Info: 2021-05-07 14:32:05.7105330: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\policytool.exe', internal: bin\policytool.exe
+[Info: 2021-05-07 14:32:05.7328418: ControllerInterface.cpp(106)] Running method updateConfiguration
+[Info: 2021-05-07 14:32:05.9427107: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\resource.dll', internal: bin\resource.dll
+[Info: 2021-05-07 14:32:06.0096790: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\rmid.exe', internal: bin\rmid.exe
+[Info: 2021-05-07 14:32:06.0437649: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\server\Xusage.txt', internal: bin\server\Xusage.txt
+[Info: 2021-05-07 14:32:06.0799889: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\rmiregistry.exe', internal: bin\rmiregistry.exe
+[Info: 2021-05-07 14:32:06.1132500: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\servertool.exe', internal: bin\servertool.exe
+[Info: 2021-05-07 14:32:06.1253484: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jsoundds.dll', internal: bin\jsoundds.dll
+[Info: 2021-05-07 14:32:06.2147462: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\sunmscapi.dll', internal: bin\sunmscapi.dll
+[Info: 2021-05-07 14:32:06.3800572: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\tnameserv.exe', internal: bin\tnameserv.exe
+[Info: 2021-05-07 14:32:06.3998781: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\w2k_lsa_auth.dll', internal: bin\w2k_lsa_auth.dll
+[Info: 2021-05-07 14:32:06.5125754: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\COPYRIGHT', internal: COPYRIGHT
+[Info: 2021-05-07 14:32:06.5184894: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\accessibility.properties', internal: lib\accessibility.properties
+[Info: 2021-05-07 14:32:06.6143202: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\prism_es2.dll', internal: bin\prism_es2.dll
+[Info: 2021-05-07 14:32:06.5637895: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\management.dll', internal: bin\management.dll
+[Info: 2021-05-07 14:32:06.6184296: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\verify.dll', internal: bin\verify.dll
+[Info: 2021-05-07 14:32:06.5128272: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jsound.dll', internal: bin\jsound.dll
+[Info: 2021-05-07 14:32:07.0919695: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\GRAY.pf', internal: lib\cmm\GRAY.pf
+[Info: 2021-05-07 14:32:07.0924067: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\amd64\jvm.cfg', internal: lib\amd64\jvm.cfg
+[Info: 2021-05-07 14:32:07.1340442: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\sRGB.pf', internal: lib\cmm\sRGB.pf
+[Info: 2021-05-07 14:32:07.1155762: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\calendars.properties', internal: lib\calendars.properties
+[Info: 2021-05-07 14:32:07.0933163: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\LINEAR_RGB.pf', internal: lib\cmm\LINEAR_RGB.pf
+[Info: 2021-05-07 14:32:07.2778557: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages.properties', internal: lib\deploy\messages.properties
+[Info: 2021-05-07 14:32:07.2781070: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_de.properties', internal: lib\deploy\messages_de.properties
+[Info: 2021-05-07 14:32:07.3328382: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_es.properties', internal: lib\deploy\messages_es.properties
+[Info: 2021-05-07 14:32:07.4439295: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_fr.properties', internal: lib\deploy\messages_fr.properties
+[Info: 2021-05-07 14:32:07.6911070: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_it.properties', internal: lib\deploy\messages_it.properties
+[Info: 2021-05-07 14:32:07.6914357: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\currency.data', internal: lib\currency.data
+[Info: 2021-05-07 14:32:07.7277585: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_pt_BR.properties', internal: lib\deploy\messages_pt_BR.properties
+[Info: 2021-05-07 14:32:07.7516529: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_sv.properties', internal: lib\deploy\messages_sv.properties
+[Info: 2021-05-07 14:32:07.9167487: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_zh_HK.properties', internal: lib\deploy\messages_zh_HK.properties
+[Info: 2021-05-07 14:32:08.1790318: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\content-types.properties', internal: lib\content-types.properties
+[Info: 2021-05-07 14:32:08.1034405: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_zh_CN.properties', internal: lib\deploy\messages_zh_CN.properties
+[Info: 2021-05-07 14:32:08.0192335: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_zh_TW.properties', internal: lib\deploy\messages_zh_TW.properties
+[Info: 2021-05-07 14:32:08.1921443: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_ko.properties', internal: lib\deploy\messages_ko.properties
+[Info: 2021-05-07 14:32:08.2528737: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\messages_ja.properties', internal: lib\deploy\messages_ja.properties
+[Info: 2021-05-07 14:32:08.3686883: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\splash@2x.gif', internal: lib\deploy\splash@2x.gif
+[Info: 2021-05-07 14:32:08.2849011: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\splash.gif', internal: lib\deploy\splash.gif
+[Info: 2021-05-07 14:32:08.3254374: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy\ffjcext.zip', internal: lib\deploy\ffjcext.zip
+[Info: 2021-05-07 14:32:08.2835360: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\dnsns.jar', internal: lib\ext\dnsns.jar
+[Info: 2021-05-07 14:32:08.3780522: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\meta-index', internal: lib\ext\meta-index
+[Info: 2021-05-07 14:32:08.4329685: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\sunmscapi.jar', internal: lib\ext\sunmscapi.jar
+[Info: 2021-05-07 14:32:08.4331139: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\sunec.jar', internal: lib\ext\sunec.jar
+[Info: 2021-05-07 14:32:08.4740508: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fontconfig.bfc', internal: lib\fontconfig.bfc
+[Info: 2021-05-07 14:32:08.4741902: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\flavormap.properties', internal: lib\flavormap.properties
+[Info: 2021-05-07 14:32:08.4748534: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\jaccess.jar', internal: lib\ext\jaccess.jar
+[Info: 2021-05-07 14:32:08.6651331: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fontconfig.properties.src', internal: lib\fontconfig.properties.src
+[Info: 2021-05-07 14:32:08.6753165: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\CIEXYZ.pf', internal: lib\cmm\CIEXYZ.pf
+[Info: 2021-05-07 14:32:08.7121184: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\prism_sw.dll', internal: bin\prism_sw.dll
+[Info: 2021-05-07 14:32:08.7933538: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\nio.dll', internal: bin\nio.dll
+[Info: 2021-05-07 14:32:08.7922635: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\prism_common.dll', internal: bin\prism_common.dll
+[Info: 2021-05-07 14:32:08.9675142: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\hijrah-config-umalqura.properties', internal: lib\hijrah-config-umalqura.properties
+[Info: 2021-05-07 14:32:09.0751287: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\invalid32x32.gif', internal: lib\images\cursors\invalid32x32.gif
+[Info: 2021-05-07 14:32:09.0778660: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_CopyNoDrop32x32.gif', internal: lib\images\cursors\win32_CopyNoDrop32x32.gif
+[Info: 2021-05-07 14:32:09.1487086: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_LinkNoDrop32x32.gif', internal: lib\images\cursors\win32_LinkNoDrop32x32.gif
+[Info: 2021-05-07 14:32:09.1527542: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\javafx.properties', internal: lib\javafx.properties
+[Info: 2021-05-07 14:32:09.1595868: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_LinkDrop32x32.gif', internal: lib\images\cursors\win32_LinkDrop32x32.gif
+[Info: 2021-05-07 14:32:09.1968563: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\cursors.properties', internal: lib\images\cursors\cursors.properties
+[Info: 2021-05-07 14:32:09.1997959: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jfr\profile.jfc', internal: lib\jfr\profile.jfc
+[Info: 2021-05-07 14:32:09.1355909: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_MoveDrop32x32.gif', internal: lib\images\cursors\win32_MoveDrop32x32.gif
+[Info: 2021-05-07 14:32:09.2412318: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jvm.hprof.txt', internal: lib\jvm.hprof.txt
+[Info: 2021-05-07 14:32:09.1590059: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_CopyDrop32x32.gif', internal: lib\images\cursors\win32_CopyDrop32x32.gif
+[Info: 2021-05-07 14:32:09.2662348: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\logging.properties', internal: lib\logging.properties
+[Info: 2021-05-07 14:32:09.1487892: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_MoveNoDrop32x32.gif', internal: lib\images\cursors\win32_MoveNoDrop32x32.gif
+[Info: 2021-05-07 14:32:09.3204752: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\management\management.properties', internal: lib\management\management.properties
+[Info: 2021-05-07 14:32:09.2669741: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jfxswt.jar', internal: lib\jfxswt.jar
+[Info: 2021-05-07 14:32:09.2308692: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jfr\default.jfc', internal: lib\jfr\default.jfc
+[Info: 2021-05-07 14:32:09.5454057: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\management-agent.jar', internal: lib\management-agent.jar
+[Info: 2021-05-07 14:32:09.5740330: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\meta-index', internal: lib\meta-index
+[Info: 2021-05-07 14:32:09.2781818: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\management\jmxremote.password.template', internal: lib\management\jmxremote.password.template
+[Info: 2021-05-07 14:32:09.5987673: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\management\snmp.acl.template', internal: lib\management\snmp.acl.template
+[Info: 2021-05-07 14:32:09.5974967: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\net.properties', internal: lib\net.properties
+[Info: 2021-05-07 14:32:09.2664842: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\management\jmxremote.access', internal: lib\management\jmxremote.access
+[Info: 2021-05-07 14:32:09.6117591: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\ssvagent.exe', internal: bin\ssvagent.exe
+[Info: 2021-05-07 14:32:09.6268395: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\psfont.properties.ja', internal: lib\psfont.properties.ja
+[Info: 2021-05-07 14:32:09.6272299: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\psfontj2d.properties', internal: lib\psfontj2d.properties
+[Info: 2021-05-07 14:32:09.6397486: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\zipfs.jar', internal: lib\ext\zipfs.jar
+[Info: 2021-05-07 14:32:09.6831360: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaBrightDemiItalic.ttf', internal: lib\fonts\LucidaBrightDemiItalic.ttf
+[Info: 2021-05-07 14:32:09.7496404: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\javaws.policy', internal: lib\security\javaws.policy
+[Info: 2021-05-07 14:32:09.7771208: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\trusted.libraries', internal: lib\security\trusted.libraries
+[Info: 2021-05-07 14:32:09.7808478: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\LICENSE', internal: LICENSE
+[Info: 2021-05-07 14:32:09.7946391: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\README.txt', internal: README.txt
+[Info: 2021-05-07 14:32:09.7962393: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\release', internal: release
+[Info: 2021-05-07 14:32:09.7994418: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\blacklisted.certs', internal: lib\security\blacklisted.certs
+[Info: 2021-05-07 14:32:09.7165938: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\blacklist', internal: lib\security\blacklist
+[Info: 2021-05-07 14:32:09.8113505: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\Welcome.html', internal: Welcome.html
+[Info: 2021-05-07 14:32:09.8176243: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\sound.properties', internal: lib\sound.properties
+[Info: 2021-05-07 14:32:09.8487995: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\java.policy', internal: lib\security\java.policy
+[Info: 2021-05-07 14:32:09.8754862: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\US_export_policy.jar', internal: lib\security\US_export_policy.jar
+[Info: 2021-05-07 14:32:09.8783405: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\local_policy.jar', internal: lib\security\local_policy.jar
+[Info: 2021-05-07 14:32:09.8903237: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\tzmappings', internal: lib\tzmappings
+[Info: 2021-05-07 14:32:09.8952901: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\java.security', internal: lib\security\java.security
+[Info: 2021-05-07 14:32:09.8955469: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaBrightDemiBold.ttf', internal: lib\fonts\LucidaBrightDemiBold.ttf
+[Info: 2021-05-07 14:32:09.9434771: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\zip.dll', internal: bin\zip.dll
+[Info: 2021-05-07 14:32:09.9628692: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\unpack.dll', internal: bin\unpack.dll
+[Info: 2021-05-07 14:32:09.9821997: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\classlist', internal: lib\classlist
+[Info: 2021-05-07 14:32:10.0442101: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaBrightItalic.ttf', internal: lib\fonts\LucidaBrightItalic.ttf
+[Info: 2021-05-07 14:32:10.1596956: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\net.dll', internal: bin\net.dll
+[Info: 2021-05-07 14:32:10.1742575: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\cacerts', internal: lib\security\cacerts
+[Info: 2021-05-07 14:32:10.2479732: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\tzdb.dat', internal: lib\tzdb.dat
+[Info: 2021-05-07 14:32:10.2537809: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\WindowsAccessBridge-64.dll', internal: bin\WindowsAccessBridge-64.dll
+[Info: 2021-05-07 14:32:10.2527793: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\THIRDPARTYLICENSEREADME-JAVAFX.txt', internal: THIRDPARTYLICENSEREADME-JAVAFX.txt
+[Info: 2021-05-07 14:32:10.2480500: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jp2launcher.exe', internal: bin\jp2launcher.exe
+[Info: 2021-05-07 14:32:10.2965126: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jce.jar', internal: lib\jce.jar
+[Info: 2021-05-07 14:32:10.3952893: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\sunec.dll', internal: bin\sunec.dll
+[Info: 2021-05-07 14:32:10.4267192: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javafx_iio.dll', internal: bin\javafx_iio.dll
+[Info: 2021-05-07 14:32:10.4665630: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jfxmedia.dll', internal: bin\jfxmedia.dll
+[Info: 2021-05-07 14:32:10.5007574: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\JavaAccessBridge-64.dll', internal: bin\JavaAccessBridge-64.dll
+[Info: 2021-05-07 14:32:10.5011301: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\hprof.dll', internal: bin\hprof.dll
+[Info: 2021-05-07 14:32:10.5016473: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\java.dll', internal: bin\java.dll
+[Info: 2021-05-07 14:32:10.5355917: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\prism_d3d.dll', internal: bin\prism_d3d.dll
+[Info: 2021-05-07 14:32:10.8365076: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javacpl.cpl', internal: bin\javacpl.cpl
+[Info: 2021-05-07 14:32:10.8675387: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jli.dll', internal: bin\jli.dll
+[Info: 2021-05-07 14:32:10.8984952: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\THIRDPARTYLICENSEREADME.txt', internal: THIRDPARTYLICENSEREADME.txt
+[Info: 2021-05-07 14:32:10.9119835: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jpeg.dll', internal: bin\jpeg.dll
+[Info: 2021-05-07 14:32:10.9532794: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\fxplugins.dll', internal: bin\fxplugins.dll
+[Info: 2021-05-07 14:32:10.9640373: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\access-bridge-64.jar', internal: lib\ext\access-bridge-64.jar
+[Info: 2021-05-07 14:32:11.0015172: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\wsdetect.dll', internal: bin\wsdetect.dll
+[Info: 2021-05-07 14:32:11.0856923: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\unpack200.exe', internal: bin\unpack200.exe
+[Info: 2021-05-07 14:32:11.1158080: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jdwp.dll', internal: bin\jdwp.dll
+[Info: 2021-05-07 14:32:11.1326234: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\java.exe', internal: bin\java.exe
+[Info: 2021-05-07 14:32:11.1441773: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javaw.exe', internal: bin\javaw.exe
+[Info: 2021-05-07 14:32:11.2094823: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\splashscreen.dll', internal: bin\splashscreen.dll
+[Info: 2021-05-07 14:32:11.2867909: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jp2ssv.dll', internal: bin\jp2ssv.dll
+[Info: 2021-05-07 14:32:11.2929981: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\kcms.dll', internal: bin\kcms.dll
+[Info: 2021-05-07 14:32:11.3271855: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\plugin2\npjp2.dll', internal: bin\plugin2\npjp2.dll
+[Info: 2021-05-07 14:32:11.3473437: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaTypewriterBold.ttf', internal: lib\fonts\LucidaTypewriterBold.ttf
+[Info: 2021-05-07 14:32:11.3626085: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\lcms.dll', internal: bin\lcms.dll
+[Info: 2021-05-07 14:32:11.4181668: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaTypewriterRegular.ttf', internal: lib\fonts\LucidaTypewriterRegular.ttf
+[Info: 2021-05-07 14:32:11.4493959: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\sunpkcs11.jar', internal: lib\ext\sunpkcs11.jar
+[Info: 2021-05-07 14:32:11.4655978: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\t2k.dll', internal: bin\t2k.dll
+[Info: 2021-05-07 14:32:11.4790705: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\glass.dll', internal: bin\glass.dll
+[Info: 2021-05-07 14:32:11.4818040: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\fontmanager.dll', internal: bin\fontmanager.dll
+[Info: 2021-05-07 14:32:11.5554191: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\PYCC.pf', internal: lib\cmm\PYCC.pf
+[Info: 2021-05-07 14:32:11.6509248: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\sunjce_provider.jar', internal: lib\ext\sunjce_provider.jar
+[Info: 2021-05-07 14:32:11.6765254: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jp2iexp.dll', internal: bin\jp2iexp.dll
+[Info: 2021-05-07 14:32:11.6958430: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaSansDemiBold.ttf', internal: lib\fonts\LucidaSansDemiBold.ttf
+[Info: 2021-05-07 14:32:11.7161985: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javaws.exe', internal: bin\javaws.exe
+[Info: 2021-05-07 14:32:11.7366841: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaBrightRegular.ttf', internal: lib\fonts\LucidaBrightRegular.ttf
+[Info: 2021-05-07 14:32:11.7525544: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\glib-lite.dll', internal: bin\glib-lite.dll
+[Info: 2021-05-07 14:32:11.7632665: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\javaws.jar', internal: lib\javaws.jar
+[Info: 2021-05-07 14:32:11.8113229: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\javafx_font_t2k.dll', internal: bin\javafx_font_t2k.dll
+[Info: 2021-05-07 14:32:11.8354502: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\ssv.dll', internal: bin\ssv.dll
+[Info: 2021-05-07 14:32:11.9002602: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jfr.jar', internal: lib\jfr.jar
+[Info: 2021-05-07 14:32:11.9623723: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\gstreamer-lite.dll', internal: bin\gstreamer-lite.dll
+[Info: 2021-05-07 14:32:12.0985936: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\jsse.jar', internal: lib\jsse.jar
+[Info: 2021-05-07 14:32:12.1329234: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\mlib_image.dll', internal: bin\mlib_image.dll
+[Info: 2021-05-07 14:32:12.1835545: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\fonts\LucidaSansRegular.ttf', internal: lib\fonts\LucidaSansRegular.ttf
+[Info: 2021-05-07 14:32:12.2416728: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\msvcr100.dll', internal: bin\msvcr100.dll
+[Info: 2021-05-07 14:32:12.2813546: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\plugin2\msvcr100.dll', internal: bin\plugin2\msvcr100.dll
+[Info: 2021-05-07 14:32:12.4101472: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\plugin.jar', internal: lib\plugin.jar
+[Info: 2021-05-07 14:32:12.4605420: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\localedata.jar', internal: lib\ext\localedata.jar
+[Info: 2021-05-07 14:32:12.7416461: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\nashorn.jar', internal: lib\ext\nashorn.jar
+[Info: 2021-05-07 14:32:13.2331443: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\deploy.jar', internal: lib\deploy.jar
+[Info: 2021-05-07 14:32:13.3170348: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\charsets.jar', internal: lib\charsets.jar
+[Info: 2021-05-07 14:32:13.5854845: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\resources.jar', internal: lib\resources.jar
+[Info: 2021-05-07 14:32:13.7132669: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\cldrdata.jar', internal: lib\ext\cldrdata.jar
+[Info: 2021-05-07 14:32:14.0087042: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\server\jvm.dll', internal: bin\server\jvm.dll
+[Info: 2021-05-07 14:32:14.1929858: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\ext\jfxrt.jar', internal: lib\ext\jfxrt.jar
+[Info: 2021-05-07 14:32:14.7805037: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\jfxwebkit.dll', internal: bin\jfxwebkit.dll
+[Info: 2021-05-07 14:32:15.2231971: client_handler.cpp(771)] NotifyBrowserClosing
+[Info: 2021-05-07 14:32:15.2610172: browser_window.cpp(59)] OnBrowserClosing
+[Info: 2021-05-07 14:32:15.5650404: client_handler.cpp(789)] NotifyBrowserClosed
+[Info: 2021-05-07 14:32:15.5656402: browser_window.cpp(66)] OnBrowserClosed (with delegate)
+[Info: 2021-05-07 14:32:15.5676100: root_window_manager.cpp(333)] Main window has been closed: 03E4EBD0
+[Info: 2021-05-07 14:32:15.6341170: root_window_manager.cpp(365)] All windows are gone.
+[Info: 2021-05-07 14:32:15.7599681: root_window_manager.cpp(367)] Checking if we can close the application...
+[Info: 2021-05-07 14:32:15.7807374: main_context.cpp(275)] Will shutdown!
+[Info: 2021-05-07 14:32:15.7816803: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-05-07 14:32:15.7835117: NetQueue.cpp(197)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-05-07 14:32:15.7839273: NetQueue.cpp(689)] NetQueue: Worker thread shutting down.
+[Info: 2021-05-07 14:32:15.7868828: NetQueue.cpp(200)] NetQueue: Done.
+[Info: 2021-05-07 14:32:16.5214593: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\rt.jar', internal: lib\rt.jar
+[Info: 2021-05-07 14:32:37.9354659: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Have 2641 total files to check or download
+[Info: 2021-05-07 14:32:37.9483618: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Waiting for 2641 futures
+[Info: 2021-05-07 14:34:04.5488850: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:34:04.9767248: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:34:05.2006893: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:34:05.2110905: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:34:05.2167410: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:34:05.3154218: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:34:05.3986787: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:34:05.4303744: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:36:04.6405057: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:36:05.1321885: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:36:05.7208911: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:36:06.5228674: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-05-07 14:36:06.5777080: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:36:06.6315993: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:11f:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-05-07 14:36:06.8064064: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:36:06.8291298: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/644de867d508b1cd66eaa94a593d97dd9206c541/manifest.json
+[Info: 2021-05-07 14:36:29.8391250: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Checking installations.
+[Info: 2021-05-07 14:36:29.8592232: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Minecraft client 1.16.5 is ready to start.
+[Info: 2021-05-07 14:36:29.8596648: GameController.cpp(438)] Starting game with token 1
+[Info: 2021-05-07 14:36:29.8599485: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Starting!
+[Info: 2021-05-07 14:36:29.8602320: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Nothing to download!
+[Info: 2021-05-07 14:36:29.8815478: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Downloading Java Runtime jre-legacy:8u51
+[Info: 2021-05-07 14:36:30.6577401: PistonInstaller.cpp(309)] Inspecting files in ...\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy
+[Error: 2021-05-07 14:36:30.8258627: Sha1Cacher.cpp(45)] Error reading cached SHA-1: bin/JAWTAccessBridge-64.dll /#//  16151528540421870
+[Info: 2021-05-07 14:36:30.8300488: NetQueue.cpp(585)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2021-05-07 14:36:30.8324060: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\awt.dll', internal: bin\awt.dll
+[Info: 2021-05-07 14:36:30.8327285: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\bci.dll', internal: bin\bci.dll
+[Info: 2021-05-07 14:36:32.0814735: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\LICENSE', internal: LICENSE
+[Info: 2021-05-07 14:36:30.8333810: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\decora_sse.dll', internal: bin\decora_sse.dll
+[Info: 2021-05-07 14:36:32.8842937: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\javafx.properties', internal: lib\javafx.properties
+[Info: 2021-05-07 14:36:32.9587000: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\security\javaws.policy', internal: lib\security\javaws.policy
+[Info: 2021-05-07 14:36:30.8346317: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dtplugin\npdeployJava1.dll', internal: bin\dtplugin\npdeployJava1.dll
+[Info: 2021-05-07 14:36:30.8349934: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dt_shmem.dll', internal: bin\dt_shmem.dll
+[Info: 2021-05-07 14:36:35.9156143: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_CopyNoDrop32x32.gif', internal: lib\images\cursors\win32_CopyNoDrop32x32.gif
+[Info: 2021-05-07 14:36:31.2056032: NetQueue.cpp(428)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2021-05-07 14:36:30.8330533: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dcpr.dll', internal: bin\dcpr.dll
+[Info: 2021-05-07 14:36:36.6243412: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_LinkNoDrop32x32.gif', internal: lib\images\cursors\win32_LinkNoDrop32x32.gif
+[Info: 2021-05-07 14:36:30.8336995: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\deploy.dll', internal: bin\deploy.dll
+[Info: 2021-05-07 14:36:30.8342975: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\bin\dtplugin\deployJava1.dll', internal: bin\dtplugin\deployJava1.dll
+[Info: 2021-05-07 14:36:36.7935975: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_CopyDrop32x32.gif', internal: lib\images\cursors\win32_CopyDrop32x32.gif
+[Info: 2021-05-07 14:36:34.7441916: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\invalid32x32.gif', internal: lib\images\cursors\invalid32x32.gif
+[Info: 2021-05-07 14:36:36.8629125: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\release', internal: release
+[Info: 2021-05-07 14:36:36.3371969: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_MoveNoDrop32x32.gif', internal: lib\images\cursors\win32_MoveNoDrop32x32.gif
+[Info: 2021-05-07 14:36:36.9238480: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\amd64\jvm.cfg', internal: lib\amd64\jvm.cfg
+[Info: 2021-05-07 14:38:18.2373878: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\Welcome.html', internal: Welcome.html
+[Info: 2021-05-07 14:38:18.2729650: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\cmm\LINEAR_RGB.pf', internal: lib\cmm\LINEAR_RGB.pf
+[Info: 2021-05-07 14:36:33.6456791: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\images\cursors\win32_MoveDrop32x32.gif', internal: lib\images\cursors\win32_MoveDrop32x32.gif
+[Info: 2021-05-07 14:38:18.3624028: Sha1Cacher.cpp(105)] SHA1 cacher get 'C:\Program Files (x86)\Minecraft Launcher\runtime\jre-legacy\windows-x64\jre-legacy\lib\sound.properties', internal: lib\sound.properties

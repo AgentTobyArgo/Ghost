@@ -1,0 +1,9 @@
+[Info: 2021-05-07 14:06:23.1635217: NativeUpdaterWin32.cpp(261)] 07-05-2021 09:06:23 - going to update MinecraftLauncher.exe using MinecraftLauncher.exe.tmp
+[Info: 2021-05-07 14:06:23.1714241: NativeUpdaterWin32.cpp(263)] Launcher is definitely closed.
+[Info: 2021-05-07 14:06:23.2020870: NativeUpdaterWin32.cpp(123)] Backing up previous version of the launcher...
+[Info: 2021-05-07 14:06:23.3178623: NativeUpdaterWin32.cpp(144)] Previous version has been backed up as MinecraftLauncher.exe.backup.
+[Info: 2021-05-07 14:06:23.3181545: NativeUpdaterWin32.cpp(151)] Installing new version of the launcher...
+[Info: 2021-05-07 14:06:23.4166761: NativeUpdaterWin32.cpp(159)] Moved MinecraftLauncher.exe.tmp to MinecraftLauncher.exe successfully.
+[Info: 2021-05-07 14:06:23.4513470: NativeUpdaterWin32.cpp(161)] Removing backup file MinecraftLauncher.exe.backup
+[Info: 2021-05-07 14:06:23.4525647: NativeUpdaterWin32.cpp(168)] Removed backup MinecraftLauncher.exe.backup successfully.
+[Info: 2021-05-07 14:06:23.4527728: NativeUpdaterWin32.cpp(290)] Update succeeded!
